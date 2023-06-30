@@ -37,7 +37,7 @@ My name is @GGruszczyk and I'm a Full-Stack Developer from Argentina.
 ## Connect with me
 
 - [GitHub](https://github.com/GGruszczyk)
-- [LinkedIn](https://www.linkedin.com/in/germán-gruszczyk-976577173/)
+- [LinkedIn](https://www.linkedin.com/in/germán-gruszczyk)
 - [Website](https://www.example.com)
 
 Looking forward to connecting with you!
