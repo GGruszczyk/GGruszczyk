@@ -1,8 +1,8 @@
 # @GGruszczyk
 
-Hey 👋 Welcome to my profile!
+ Welcome to my profile!
 
-My name is @GGruszczyk and I'm a Full-Stack Developer from Argentina.
+ @GGruszczyk  Full-Stack Developer 
 
 ## About me
 
