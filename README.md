@@ -1,8 +1,7 @@
 # @GGruszczyk
 
  Welcome to my profile!
-
- @GGruszczyk  Full-Stack Developer 
+  Full-Stack Developer 
 
 ## About me
 
