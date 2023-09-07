@@ -1,6 +1,6 @@
 # @GGruszczyk
 
- Welcome to my profile!
+ my profile!
   Full-Stack Developer 
 
 ## About me
