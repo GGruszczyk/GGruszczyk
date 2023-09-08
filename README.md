@@ -1,13 +1,11 @@
 # @GGruszczyk
 
- my profile!
   Full-Stack Developer 
 
 ## About me
 
-- 👀 I'm interested in ...
 - 🌱 I'm currently learning ...
-- 💞️ I'm looking to collaborate on ...
+
 
 ## I code with
 
