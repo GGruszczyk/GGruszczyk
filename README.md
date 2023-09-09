@@ -1,7 +1,6 @@
 # @GGruszczyk
 
-  Full-Stack Developer |
-  Data Scientist
+
 ## About me
 
 - 🌱 I'm currently learning ...
