@@ -34,7 +34,7 @@
 
 - [GitHub](https://github.com/GGruszczyk)
 - [LinkedIn](https://www.linkedin.com/in/germán-gruszczyk)
-- [CodePen]([https://codepen.io/GermanGruszczyk]())
+- [CodePen](https://codepen.io/GermanGruszczyk)
 
 Looking forward to connecting with you!
 
