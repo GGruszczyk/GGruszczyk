@@ -30,12 +30,11 @@
 
 
 
-## Connect with me
+## Connect to
 
 - [GitHub](https://github.com/GGruszczyk)
 - [LinkedIn](https://www.linkedin.com/in/germán-gruszczyk)
 - [CodePen](https://codepen.io/GermanGruszczyk)
 - [replit](https://replit.com/@GermnGruszczyk)
 
-Looking forward to connecting with you!
 
